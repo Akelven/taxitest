@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NaverLoginSample</string>
+
+    <string name="naver_client_id">5DY6EN1xIcuO1V7maJLb</string>
+    <string name="naver_client_secret">sbyzHNDAMq</string>
+    <string name="naver_client_name">여성 안심 택시</string>
+</resources>
